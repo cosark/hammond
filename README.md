@@ -35,6 +35,7 @@
   - [Built With](#built-with)
   - [Features](#features)
 - [Installation](#installation)
+- [One-Click Deploy](#one-click-deploy)
 - [Contributing](#contributing)
 - [License](#license)
 - [Roadmap](#roadmap)
@@ -157,6 +158,11 @@ You will have to provide your name, email and password so that an admin user can
 Once done you will be taken to the login page.
 
 Go through the settings page once and change relevant settings before you start adding vehicles and expenses.
+
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Hammond/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/hammond"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
 
 ## Contributing
 
